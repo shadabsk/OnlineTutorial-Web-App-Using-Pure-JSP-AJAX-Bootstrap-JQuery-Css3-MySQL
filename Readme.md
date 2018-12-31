@@ -1,5 +1,5 @@
 # Project Title
-OnlineTutorial Web-APP Build using Pure JSP,JQuery,AJAX,JQuery,Bootstrap,CSS3,MySQL,Tomcat
+OnlineTutorial Web-APP Build using Pure JSP,JQuery,AJAX,Bootstrap,CSS3,MySQL,Tomcat
 
 ## Getting Started
 All the source code is available inside Web-Content directory and OnlineTutorialDB.mwb OnlineTutorialDB.png file displays the database scheme built in workbench
