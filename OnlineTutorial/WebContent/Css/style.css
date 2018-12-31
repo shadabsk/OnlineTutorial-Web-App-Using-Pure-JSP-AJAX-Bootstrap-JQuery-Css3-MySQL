@@ -1,0 +1,115 @@
+/*login username div*/
+.main{
+	display: block;
+	background-color: #f2f2f2;
+	color: black;
+	width: 30%;
+	height: 30%;
+	margin: 10px;
+	border:1px solid black;
+	border-radius: 10px;
+	margin-left: 36%;
+	margin-top: 12%;
+}
+/*login password div*/
+.main1{
+	display: block;
+	background-color: #f2f2f2;
+	color: black;
+	width: 30%;
+	height: 30%;
+	margin: 10px;
+	border:1px solid black;
+	border-radius: 10px;
+	margin-left: 36%;
+	margin-top: 11%;
+}
+
+
+.usercir
+{
+
+	width: 64px;
+	height: 64px;
+	border: 2px solid black;
+	border-radius: 10%;
+	margin-top: 15px;
+
+}
+
+
+/*login input text*/
+.inputText {
+  font-size: 14px;
+  margin-top:19%;
+  margin-left: 8%;
+  width: 80%;
+  height: 35px;
+  border: 0;
+  outline: 0;
+   background-color: #f2f2f2;
+  border-bottom: 2px solid black;
+}
+.floating-label {
+  position: absolute;
+  pointer-events: none;
+  left: 38.5%;
+  top: 63%;
+  transition: 0.2s ease all;
+}
+
+input:focus ~ .floating-label,
+input:not(:focus):valid ~ .floating-label
+{
+  top: 59%;
+  left: 38.5%;
+  color: bold black;
+  }
+
+input[type="submit"]{
+	float: right;
+	margin-right: 12%;
+	width:80%;
+	background-color: #0a84ff;
+	color: #ffffff;
+	border-radius: 2px;
+	border:0;
+	margin-bottom: 5%;
+}
+input[type="submit"]:hover{
+	opacity: 0.8;
+	color: #fafafa;
+}
+.ref{
+margin-left: 6%;
+margin-bottom: 10%;
+}
+.ref1{
+margin-left: 6%;
+margin-bottom: 5%;
+}
+.a{
+	font-size: 50pt;
+	margin-left: 2px;
+}	
+
+
+
+/*login image size*/
+img{
+	left: 0px;
+	width: 80px;
+	height: 80px;
+	border-radius: 49%;
+	}
+/*login image size circle*/
+.circle{
+
+	width: 84px;
+	height: 84px;
+	border: 2px solid black;
+	border-radius: 50%;
+	margin-top: 10px;
+
+}
+
